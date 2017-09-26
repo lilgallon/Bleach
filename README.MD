@@ -1,5 +1,6 @@
 ![banner](images/bleach-banner.png)
-*Bleach is an anti-cheat plugin for minecraft servers developped by N3RO*
+
+*Bleach is an anti-cheat plugin for minecraft servers developped by N3RO.*
 
 ### I. Instructions
 
