@@ -1,0 +1,8 @@
+name: Bleach
+version: 0.1
+main: me.bleach.main.Bleach
+description: Anticheat made by N3RO.
+
+commands:
+  test:
+    usage: /<command>
