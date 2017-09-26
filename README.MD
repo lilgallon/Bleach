@@ -1,3 +1,5 @@
+![banner](images/bleach-banner.png)
+
 ### I. Instructions
 
 #### 1. Setting up eclipse
@@ -29,11 +31,11 @@ Since the main developper Lilian Gallon (N3RO) developped hacks to understand ho
 The main feature of the anticheat is to give a suspicious percentage to every player. The anticheat will adapt its behaviour according to every player, and store the informations.
 If a gap is reached, the player that reached the gap could be send to admins, or even could be immediatly banned.
 
-### 2. Releases
+#### 2. Releases
 
 Releases are available in the Releases folder. Please check CHANGELOG.MD to get the informations about the updates.
 
-### 3. Goals
+#### 3. Goals
 
 The goal is to use [N3RO Ghost client](https://gitlab-ce.iut.u-bordeaux.fr/lgallon/GhostClient) and [N3RO BetterColors](https://gitlab-ce.iut.u-bordeaux.fr/lgallon/Bettershadows) and to make them detected. Those are undetected on the biggest minecraft servers.
 - [ ] Speed anticheat
