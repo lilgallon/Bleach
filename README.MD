@@ -51,7 +51,8 @@ The goal is to use [N3RO Ghost client](https://gitlab-ce.iut.u-bordeaux.fr/lgall
 
 ### III. Misc
 
-[Spigot documentation)(https://hub.spigotmc.org/javadocs/spigot/)
+[Spigot documentation](https://hub.spigotmc.org/javadocs/spigot/)
+- Library used: craftbukkit-1.12.2.jar
 
 Developpment status for 1.0 release:
 - [x] Commands system *(26/07/18 | v.0.1)*
