@@ -1,0 +1,95 @@
+[19:27:45] [Server thread/INFO]: Starting minecraft server version 1.12.2
+[19:27:45] [Server thread/INFO]: Loading properties
+[19:27:45] [Server thread/INFO]: Default game type: SURVIVAL
+[19:27:45] [Server thread/INFO]: Generating keypair
+[19:27:46] [Server thread/INFO]: Starting Minecraft server on *:25565
+[19:27:46] [Server thread/INFO]: Using default channel type
+[19:27:46] [Server thread/INFO]: This server is running CraftBukkit version git-Bukkit-94b0980 (MC: 1.12.2) (Implementing API version 1.12.2-R0.1-SNAPSHOT)
+[19:27:46] [Server thread/INFO]: [Bleach] Loading Bleach v0.1
+[19:27:46] [Server thread/INFO]: Preparing level "world"
+[19:27:46] [Server thread/INFO]: Preparing start region for level 0 (Seed: 2921384987264676983)
+[19:27:47] [Server thread/INFO]: Preparing spawn area: 79%
+[19:27:48] [Server thread/INFO]: Preparing start region for level 1 (Seed: 2921384987264676983)
+[19:27:48] [Server thread/INFO]: Preparing start region for level 2 (Seed: 2921384987264676983)
+[19:27:48] [Server thread/INFO]: [Bleach] Enabling Bleach v0.1
+[19:27:48] [Server thread/INFO]: Starting the plugin.
+[19:27:48] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[19:27:48] [Server thread/INFO]: Done (2,363s)! For help, type "help" or "?"
+[19:28:26] [Server thread/INFO]: you are in the console[m
+[19:28:27] [Server thread/INFO]: [0;33;1m--------- [0;37;1mHelp: Index [0;33;1m---------------------------[m
+[19:28:27] [Server thread/INFO]: [0;37;22mUse /help [n] to get page n of help.[m
+[19:28:27] [Server thread/INFO]: [0;33;22mAliases: [0;37;1mLists command aliases[m
+[19:28:27] [Server thread/INFO]: [0;33;22mBleach: [0;37;1mAll commands for Bleach[m
+[19:28:27] [Server thread/INFO]: [0;33;22mBukkit: [0;37;1mAll commands for Bukkit[m
+[19:28:27] [Server thread/INFO]: [0;33;22mMinecraft: [0;37;1mAll commands for Minecraft[m
+[19:28:27] [Server thread/INFO]: [0;33;22m/advancement: [0;37;1mA Mojang provided command.[m
+[19:28:27] [Server thread/INFO]: [0;33;22m/ban: [0;37;1mA Mojang provided command.[m
+[19:28:27] [Server thread/INFO]: [0;33;22m/ban-ip: [0;37;1mA Mojang provided command.[m
+[19:28:27] [Server thread/INFO]: [0;33;22m/banlist: [0;37;1mA Mojang provided command.[m
+[19:28:27] [Server thread/INFO]: [0;33;22m/blockdata: [0;37;1mA Mojang provided command.[m
+[19:28:27] [Server thread/INFO]: [0;33;22m/clear: [0;37;1mA Mojang provided command.[m
+[19:28:27] [Server thread/INFO]: [0;33;22m/clone: [0;37;1mA Mojang provided command.[m
+[19:28:27] [Server thread/INFO]: [0;33;22m/debug: [0;37;1mA Mojang provided command.[m
+[19:28:27] [Server thread/INFO]: [0;33;22m/defaultgamemode: [0;37;1mA Mojang provided command.[m
+[19:28:27] [Server thread/INFO]: [0;33;22m/deop: [0;37;1mA Mojang provided command.[m
+[19:28:27] [Server thread/INFO]: [0;33;22m/difficulty: [0;37;1mA Mojang provided command.[m
+[19:28:27] [Server thread/INFO]: [0;33;22m/effect: [0;37;1mA Mojang provided command.[m
+[19:28:27] [Server thread/INFO]: [0;33;22m/enchant: [0;37;1mA Mojang provided command.[m
+[19:28:27] [Server thread/INFO]: [0;33;22m/entitydata: [0;37;1mA Mojang provided command.[m
+[19:28:27] [Server thread/INFO]: [0;33;22m/execute: [0;37;1mA Mojang provided command.[m
+[19:28:27] [Server thread/INFO]: [0;33;22m/fill: [0;37;1mA Mojang provided command.[m
+[19:28:27] [Server thread/INFO]: [0;33;22m/function: [0;37;1mA Mojang provided command.[m
+[19:28:27] [Server thread/INFO]: [0;33;22m/gamemode: [0;37;1mA Mojang provided command.[m
+[19:28:27] [Server thread/INFO]: [0;33;22m/gamerule: [0;37;1mA Mojang provided command.[m
+[19:28:27] [Server thread/INFO]: [0;33;22m/give: [0;37;1mA Mojang provided command.[m
+[19:28:27] [Server thread/INFO]: [0;33;22m/help: [0;37;1mShows the help menu[m
+[19:28:27] [Server thread/INFO]: [0;33;22m/kick: [0;37;1mA Mojang provided command.[m
+[19:28:27] [Server thread/INFO]: [0;33;22m/kill: [0;37;1mA Mojang provided command.[m
+[19:28:27] [Server thread/INFO]: [0;33;22m/list: [0;37;1mA Mojang provided command.[m
+[19:28:27] [Server thread/INFO]: [0;33;22m/locate: [0;37;1mA Mojang provided command.[m
+[19:28:27] [Server thread/INFO]: [0;33;22m/me: [0;37;1mA Mojang provided command.[m
+[19:28:27] [Server thread/INFO]: [0;33;22m/minecraft:help: [0;37;1mA Mojang provided command.[m
+[19:28:27] [Server thread/INFO]: [0;33;22m/minecraft:reload: [0;37;1mA Mojang provided command.[m
+[19:28:27] [Server thread/INFO]: [0;33;22m/minecraft:tell: [0;37;1mA Mojang provided command.[m
+[19:28:27] [Server thread/INFO]: [0;33;22m/op: [0;37;1mA Mojang provided command.[m
+[19:28:27] [Server thread/INFO]: [0;33;22m/pardon: [0;37;1mA Mojang provided command.[m
+[19:28:27] [Server thread/INFO]: [0;33;22m/pardon-ip: [0;37;1mA Mojang provided command.[m
+[19:28:27] [Server thread/INFO]: [0;33;22m/particle: [0;37;1mA Mojang provided command.[m
+[19:28:27] [Server thread/INFO]: [0;33;22m/playsound: [0;37;1mA Mojang provided command.[m
+[19:28:27] [Server thread/INFO]: [0;33;22m/plugins: [0;37;1mGets a list of plugins running on the server[m
+[19:28:27] [Server thread/INFO]: [0;33;22m/recipe: [0;37;1mA Mojang provided command.[m
+[19:28:27] [Server thread/INFO]: [0;33;22m/reload: [0;37;1mReloads the server configuration and plugins[m
+[19:28:27] [Server thread/INFO]: [0;33;22m/replaceitem: [0;37;1mA Mojang provided command.[m
+[19:28:27] [Server thread/INFO]: [0;33;22m/save-all: [0;37;1mA Mojang provided command.[m
+[19:28:27] [Server thread/INFO]: [0;33;22m/save-off: [0;37;1mA Mojang provided command.[m
+[19:28:27] [Server thread/INFO]: [0;33;22m/save-on: [0;37;1mA Mojang provided command.[m
+[19:28:27] [Server thread/INFO]: [0;33;22m/say: [0;37;1mA Mojang provided command.[m
+[19:28:27] [Server thread/INFO]: [0;33;22m/scoreboard: [0;37;1mA Mojang provided command.[m
+[19:28:27] [Server thread/INFO]: [0;33;22m/seed: [0;37;1mA Mojang provided command.[m
+[19:28:27] [Server thread/INFO]: [0;33;22m/setblock: [0;37;1mA Mojang provided command.[m
+[19:28:27] [Server thread/INFO]: [0;33;22m/setidletimeout: [0;37;1mA Mojang provided command.[m
+[19:28:27] [Server thread/INFO]: [0;33;22m/setworldspawn: [0;37;1mA Mojang provided command.[m
+[19:28:27] [Server thread/INFO]: [0;33;22m/spawnpoint: [0;37;1mA Mojang provided command.[m
+[19:28:27] [Server thread/INFO]: [0;33;22m/spreadplayers: [0;37;1mA Mojang provided command.[m
+[19:28:27] [Server thread/INFO]: [0;33;22m/stats: [0;37;1mA Mojang provided command.[m
+[19:28:27] [Server thread/INFO]: [0;33;22m/stop: [0;37;1mA Mojang provided command.[m
+[19:28:27] [Server thread/INFO]: [0;33;22m/stopsound: [0;37;1mA Mojang provided command.[m
+[19:28:27] [Server thread/INFO]: [0;33;22m/summon: [0;37;1mA Mojang provided command.[m
+[19:28:27] [Server thread/INFO]: [0;33;22m/teleport: [0;37;1mA Mojang provided command.[m
+[19:28:27] [Server thread/INFO]: [0;33;22m/tell: [0;37;1mA Mojang provided command.[m
+[19:28:27] [Server thread/INFO]: [0;33;22m/tellraw: [0;37;1mA Mojang provided command.[m
+[19:28:27] [Server thread/INFO]: [0;33;22m/test: [0;37;1m[m
+[19:28:27] [Server thread/INFO]: [0;33;22m/testfor: [0;37;1mA Mojang provided command.[m
+[19:28:27] [Server thread/INFO]: [0;33;22m/testforblock: [0;37;1mA Mojang provided command.[m
+[19:28:27] [Server thread/INFO]: [0;33;22m/testforblocks: [0;37;1mA Mojang provided command.[m
+[19:28:27] [Server thread/INFO]: [0;33;22m/time: [0;37;1mA Mojang provided command.[m
+[19:28:27] [Server thread/INFO]: [0;33;22m/timings: [0;37;1mRecords timings for all plugin events[m
+[19:28:27] [Server thread/INFO]: [0;33;22m/title: [0;37;1mA Mojang provided command.[m
+[19:28:27] [Server thread/INFO]: [0;33;22m/toggledownfall: [0;37;1mA Mojang provided command.[m
+[19:28:27] [Server thread/INFO]: [0;33;22m/tp: [0;37;1mA Mojang provided command.[m
+[19:28:27] [Server thread/INFO]: [0;33;22m/trigger: [0;37;1mA Mojang provided command.[m
+[19:28:27] [Server thread/INFO]: [0;33;22m/version: [0;37;1mGets the version of this server including any plugins in use[m
+[19:28:27] [Server thread/INFO]: [0;33;22m/weather: [0;37;1mA Mojang provided command.[m
+[19:28:27] [Server thread/INFO]: [0;33;22m/whitelist: [0;37;1mA Mojang provided command.[m
+[19:28:27] [Server thread/INFO]: [0;33;22m/worldborder: [0;37;1mA Mojang provided command.[m
+[19:28:27] [Server thread/INFO]: [0;33;22m/xp: [0;37;1mA Mojang provided command.[m

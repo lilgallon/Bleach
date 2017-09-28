@@ -4,5 +4,6 @@ main: me.bleach.main.Bleach
 description: Anticheat made by N3RO.
 
 commands:
-  test:
+  help:
     usage: /<command>
+    description: Shows the help from the Bleach AC plugin.

@@ -19,7 +19,8 @@ package me.bleach.main;
 import org.bukkit.command.CommandExecutor;
 import org.bukkit.plugin.java.JavaPlugin;
 
-import me.bleach.commands.Commands;
+import me.bleach.command.CommandManager;
+import me.bleach.events.PlayerListener;
 import me.bleach.utils.Logger;
 
 public class Bleach extends JavaPlugin {
@@ -30,7 +31,9 @@ public class Bleach extends JavaPlugin {
 		public void onEnable(){
 			logger.write("Starting the plugin.");
 			
-			this.getCommand("test").setExecutor((CommandExecutor)new Commands());
+			this.getCommand("test").setExecutor((CommandExecutor)new CommandManager());
+			
+			new PlayerListener(this);
 		}
 		
 		public void onDisable(){

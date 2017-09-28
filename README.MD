@@ -48,3 +48,14 @@ The goal is to use [N3RO Ghost client](https://gitlab-ce.iut.u-bordeaux.fr/lgall
 - [ ] Killaura bot anticheat (catch a player using killaura)
 - [ ] Movement anticheat (fly/step)
 - [ ] Packet abuse anticheat (used in hacked client to bridge faster and to improve the player's reach)
+
+### III. Misc
+
+[Spigot documentation)(https://hub.spigotmc.org/javadocs/spigot/)
+
+Developpment status for 1.0 release:
+- [x] Commands system *(26/07/18 | v.0.1)*
+- [x] Log system *(28/07/18 | v.0.2)*
+- [x] Event system *(28/07/18 | v.0.2)*
+- [ ] File manager system
+- [ ] AC Module system
