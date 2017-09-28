@@ -1,0 +1,17 @@
+# Libs builders
+libs/apache-maven-3.5.0/
+libs/BuildData/
+libs/Bukkit/
+libs/CraftBukkit/
+libs/Spigot
+libs/work/
+libs/BuildTools.log.txt
+
+# Eclipse files
+.metadata/
+.recommenders/
+
+# Server files
+Server/
+
+# Other files
