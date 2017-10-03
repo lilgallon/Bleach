@@ -40,7 +40,7 @@ Releases are available in the Releases folder. Please check CHANGELOG.MD to get 
 
 #### 3. Goals
 
-The goal is to use [N3RO Ghost client](https://github.com/N3ROO/GhostClient) and [N3RO BetterColors](https://github.com/N3ROO/Bettershadows) and to make them detected. Those are undetected on the biggest minecraft servers at the moment. These hacks were made by N3RO to understand and find what are the weakness of popular anticheats. (Those "hacks" have never been shared with malicious people).
+The goal is to use [N3RO Ghost client](https://github.com/N3ROO/Ghost) and [N3RO BetterColors](https://github.com/N3ROO/Bettercolors) and to make them detected. Those are undetected on the biggest minecraft servers at the moment. These hacks were made by N3RO to understand and find what are the weakness of popular anticheats. (Those "hacks" have never been shared with malicious people).
 - [ ] Speed anticheat
 - [ ] Reach anticheat
 - [ ] Fast click anticheat
