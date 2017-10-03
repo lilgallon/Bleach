@@ -15,7 +15,8 @@ If you don't have any terminal that accepts git commands, download the archive c
 
 ##### b) Set up eclipse
 
-Open Eclipse, set the working directory in the Bleach/ folder. Create a new java project named "Bleach", and the, reload src/.
+Open Eclipse, set the working directory in the Bleach/ folder. Create a new java project named "Bleach", and the, reload src/. 
+Make sure to add an external library : libs/craftbukkit-1.12.2.jar.
 
 #### 2. Setting up the server
 
@@ -29,7 +30,7 @@ In Eclipse, File>Export>Java>JAR File, once the "JAR Export" window appears, sel
 
 #### 1. Description
 
-Since the main developper Lilian Gallon (N3RO) developped hacks to understand how it works, the anti-cheat will catch the player using the issues at their advantages.
+The anti-cheat aims to catch players using external help.
 The main feature of the anticheat is to give a suspicious percentage to every player. The anticheat will adapt its behaviour according to every player, and store the informations.
 If a gap is reached, the player that reached the gap could be send to admins, or even could be immediatly banned.
 
@@ -39,7 +40,7 @@ Releases are available in the Releases folder. Please check CHANGELOG.MD to get 
 
 #### 3. Goals
 
-The goal is to use [N3RO Ghost client](https://gitlab-ce.iut.u-bordeaux.fr/lgallon/GhostClient) and [N3RO BetterColors](https://gitlab-ce.iut.u-bordeaux.fr/lgallon/Bettershadows) and to make them detected. Those are undetected on the biggest minecraft servers.
+The goal is to use [N3RO Ghost client](https://gitlab-ce.iut.u-bordeaux.fr/lgallon/GhostClient) and [N3RO BetterColors](https://gitlab-ce.iut.u-bordeaux.fr/lgallon/Bettershadows) and to make them detected. Those are undetected on the biggest minecraft servers at the moment. These hacks were made by N3RO to understand and find what are the weakness of popular anticheats. (Those "hacks" have never been shared with malicious people).
 - [ ] Speed anticheat
 - [ ] Reach anticheat
 - [ ] Fast click anticheat
@@ -48,15 +49,18 @@ The goal is to use [N3RO Ghost client](https://gitlab-ce.iut.u-bordeaux.fr/lgall
 - [ ] Killaura bot anticheat (catch a player using killaura)
 - [ ] Movement anticheat (fly/step)
 - [ ] Packet abuse anticheat (used in hacked client to bridge faster and to improve the player's reach)
+- [ ] Fast place anticheat
 
 ### III. Misc
 
 [Spigot documentation](https://hub.spigotmc.org/javadocs/spigot/)
 - Library used: craftbukkit-1.12.2.jar
+- Licence: GNU GPL
 
 Developpment status for 1.0 release:
 - [x] Commands system *(26/07/18 | v.0.1)*
 - [x] Log system *(28/07/18 | v.0.2)*
 - [x] Event system *(28/07/18 | v.0.2)*
 - [ ] File manager system
+- [ ] Permission system
 - [ ] AC Module system
